@@ -1,13 +1,13 @@
 # space-dogs-ghw-mona-mayhem
-# Nombre del Proyecto
+# Project Name
 
-## Objetivo
+## Objective
 
-## Tecnologías Planeadas
+## Planned Technologies
 
-## Equipo
+## Team
 
-## Referencia del Challenge
+## Challenge Reference
 
-## Estado
-Fase de Preparación de Infraestructura
+## Status
+Infrastructure Preparation Phase
